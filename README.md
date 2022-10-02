@@ -44,7 +44,8 @@ urllib3==1.26.8,
 uvicorn==0.18.3,
 yake==0.4.8,
 NTRS Open API,
-Google Chrome
+Google Chrome,
+cors, axios
 
 ## Team-The One After X
 * Srinaath Narasimhan
