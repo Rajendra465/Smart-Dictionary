@@ -17,6 +17,7 @@ The challenge is to develop an AI application to improve the accessibility and d
 * ML/NLP: Python, NLTK, Spacy,
 * DBMS and Cloud Services: MongoDB, AWS S3
 
+
 ### Frameworks & Depencies
 fastapi==0.81.0,
 gTTS==2.2.4,
@@ -41,7 +42,9 @@ tokenizers==0.12.1,
 transformers==4.22.2,
 urllib3==1.26.8,
 uvicorn==0.18.3,
-yake==0.4.8
+yake==0.4.8,
+NTRS Open API,
+Google Chrome
 
 ## Team-The One After X
 * Srinaath Narasimhan
