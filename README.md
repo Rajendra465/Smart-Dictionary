@@ -2,7 +2,7 @@
 
 ## Can AI Preserve Our Science Legacy?
 
-### PS
+### Problem Statement
 The challenge is to develop an AI application to improve the accessibility and discoverability of records in the NTRS. For example, You could use AI to read NTRS documents, generate text analytic data, and produce a list of topic keywords to help researchers find the documents they need. We need to think about what types of information future researchers will need to locate desired documents and what would be the best data to aid them in their search.
 
 ### Solution
